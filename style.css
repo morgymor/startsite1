@@ -1,3 +1,7 @@
+h1 {
+	font-family: sans-serif;
+}
+
 li a
 {
 color: rgba(255, 100, 30, 0,5);
@@ -9,16 +13,27 @@ article,li
 }
 
 header img {
-border-radius: 50%;
+	border-radius: 50%
 
+
+
+}
+
+div {
+	background-color: #bbccbb;
 }
 
 nav li {
 	display:inline;
+	border: 2px solid black;
 
 }
 
 nav ul {
 	text-align: center;
 
+}
+
+#main-nav {
+	padding: 20px;
 }
